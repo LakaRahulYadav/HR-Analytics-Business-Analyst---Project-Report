@@ -8,9 +8,7 @@
 ## 📊 Dataset Used  
 
 - <a href="https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report/blob/main/Copy%20of%20HRDatasetv14%20-%20HRDataset_v14.csv)</a> 
--  <a href="https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report/blob/main/Project-1%20HR%20-%20business%20analyst\(LRY\).twbx)</a> 
-
----
+ 
 
 ## 📌 **Project Objective**  
 
