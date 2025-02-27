@@ -193,6 +193,9 @@ This report provides insights into key HR trends, performance analytics, and rec
 14. Are employees satisfied with career growth opportunities?  
 
 ---
+📝 Author: Laka Rahul Yadav
+📅 UNID Code: UMIP276540
+📊 Date : Feb - 27/2025
 
 ##  **Project Repository**  
 
