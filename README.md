@@ -1,122 +1,205 @@
-# HR-Analytics-Business-Analyst---Project-Report
-The primary objective of this project is to analyze performance metrics to improve job satisfaction and retention, thereby enhancing overall organizational performance.
+# HR Analytics - Business Analyst Project Report
 
-📅 Date: 27/11/2025
-By: Laka Rahul Yadav
-#DataSet Used
- - <a  https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report/blob/main/Copy%20of%20HRDatasetv14%20-%20HRDataset_v14.cs
- - <a  https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report/blob/main/Project-1%20HR%20-%20business%20analyst(LRY).twbx
+## 📅 Date: 27/11/2025  
+**By:** [Laka Rahul Yadav](https://www.linkedin.com/in/rahulyadavlaka-73922217a)  
 
-HR Analytics Report
+---
 
-1. Executive Summary
-A brief overview of the HR analytics findings, key insights, and recommended actions.
+## 📊 Dataset Used  
 
- #KeyHighlights:
-       - Total Employees: 334 
-       - Attrition Rate: 6.89% - 
-       - High Attrition in: Production, IT/IS, and Sales 
-       - Top Termination Reasons: Better job offers, salary hikes, job dissatisfaction 
-       - Job Satisfaction Issues: Admin & Executive Offices 
-       - Performance Decline: Majority of employees score 1–3
+- <a href="https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report/blob/main/Copy%20of%20HRDatasetv14%20-%20HRDataset_v14.csv)</a> 
+-  <a href="https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report/blob/main/Project-1%20HR%20-%20business%20analyst\(LRY\).twbx)</a> 
 
-#KeyRecommendations:
-                   - Competitive salary adjustments
-                   - Career growth & leadership development  
-                   - Hiring strategy improvement 
-                   - Employee engagement & retention programs
- 
- #1.Employee Attrition & Turnover Trends
- Current Workforce Overview
-Total Employees: 334
-Age Distribution: Majority in the 35–45 age group, fewer young hires.
-Experience Levels: Analysis of how long employees stay in the company.
+---
 
-#2.Attrition Analysis
-Attrition Rate: 6.89% (Moderate but requires action)
+## 📌 **Project Objective**  
 
-Department-wise Turnover:
+To analyze HR performance metrics, identify key trends in employee attrition and job satisfaction, and develop strategies to improve employee retention, productivity, and engagement.  
 
-Highest in Production, IT/IS, and Sales
-Admin has lower attrition but higher dissatisfaction
-Yearly Trends: Major turnover spike in 2012 (59 employees left).
+---
 
-Exit Reasons:
+## 📝 **Executive Summary**  
 
-Top Reasons: Better jobs (20 employees), higher pay (11 employees), unhappiness (14 employees)
-Less Common Reasons: Relocation, personal reasons
-📌 Key Problems:
+This report provides insights into key HR trends, performance analytics, and recommendations to enhance workforce management.  
 
-High turnover in key departments.
-Employees leaving due to better job offers and salary concerns.
-📢 Action Plan:
-✅ Salary benchmarking study.
-✅ Leadership training & career progression programs.
-✅ Targeted retention strategies (incentives, flexible work).
+### 🔹 **Key Highlights:**  
 
-3. Job Satisfaction Analysis
-3.1. Department-wise Job Satisfaction
-Highest Satisfaction: Production, IT/IS.
-Lowest Satisfaction: Admin & Executive Offices.
-📌 Key Problems:
+- **Total Employees:** 334  
+- **Attrition Rate:** 6.89%  
+- **High Attrition Departments:** Production, IT/IS, Sales  
+- **Top Termination Reasons:** Better job offers, salary hikes, job dissatisfaction  
+- **Job Satisfaction Issues:** Admin & Executive Offices  
+- **Performance Decline:** Most employees score between 1–3  
 
-Dissatisfaction in Admin & Executive roles may impact company operations.
-Needs further investigation through employee feedback surveys.
-📢 Action Plan:
-✅ Conduct detailed employee engagement surveys.
-✅ Improve work-life balance & flexibility.
-✅ Introduce incentives & professional development programs.
+### 🚀 **Key Recommendations:**  
 
-4. Employee Hiring & Performance Trends
-4.1. Hiring Trends
-Hiring peaked in 2010 & 2014 but declined post-2016.
-Younger professionals not joining as frequently → Needs attention.
-📌 Key Problems:
+✅ Competitive salary adjustments  
+✅ Career growth & leadership development programs  
+✅ Improved hiring strategy  
+✅ Employee engagement & retention initiatives  
 
-Declining hiring = aging workforce with fewer young recruits.
-Difficulty attracting top talent in recent years.
-📢 Action Plan:
-✅ Strengthen campus recruitment & internship programs.
-✅ Offer remote/hybrid work models to attract more talent.
-✅ Improve employer branding & employee benefits.
+---
 
-4.2. Employee Performance Trends
-Most employees score between 1–3 → Indicates declining performance.
-Very few high performers (score 4) → Needs urgent action.
-📌 Key Problems:
+## 📊 **1. Employee Attrition & Turnover Trends**  
 
-Lack of high performers = potential productivity issues.
-Insufficient motivation, training, or career progression.
-📢 Action Plan:
-✅ Introduce structured training & development programs.
-✅ Implement performance-based incentives.
-✅ Promote high achievers & recognize top talent.
+### **📌 Current Workforce Overview**  
 
-5. Employee Termination & Retention Strategies
-5.1. Key Termination Reasons
-Reason	No. of Employees
-Better Job Offer	20
-More Money	11
-Unhappy	14
-Relocation	5
-📌 Key Problems:
+- **Total Employees:** 334  
+- **Age Distribution:** Majority between 35–45 years, fewer young hires.  
+- **Experience Levels:** Analysis of tenure and retention trends.  
 
-High turnover due to external job opportunities & pay gaps.
-Some employees unhappy with job roles.
-📢 Action Plan:
-✅ Salary Revision – Ensure competitive pay.
-✅ Career Progression Plan – Clear growth opportunities.
-✅ Employee Well-being Program – Improve job satisfaction.
+### **📌 Attrition Analysis**  
 
-6. Recommendations & Conclusion
-✔ Conduct a salary & benefits analysis to remain competitive.
-✔ Strengthen employee engagement & job satisfaction programs.
-✔ Focus on hiring younger talent through recruitment drives.
-✔ Implement training & performance-based incentives.
-✔ Develop a long-term retention strategy for critical roles.
+- **Attrition Rate:** 6.89% (Moderate but needs action)  
+- **High Turnover Departments:** Production, IT/IS, and Sales  
+- **Admin Department:** Low attrition but high dissatisfaction  
+- **Yearly Trends:** Major turnover spike in 2012 (59 employees left).  
 
-📌 Next Steps:
-1️⃣ Organize a company-wide feedback survey.
-2️⃣ Implement a 3-month retention & hiring improvement plan.
-3️⃣ Review progress & modify strategies accordingly.
+### **🔍 Exit Reasons**  
 
+| Reason              | No. of Employees |
+|---------------------|-----------------|
+| Better Job Offer   | 20              |
+| More Money        | 11              |
+| Job Dissatisfaction | 14              |
+| Relocation        | 5               |
+
+### **📢 Action Plan**  
+
+✅ Salary benchmarking study  
+✅ Leadership training & career progression programs  
+✅ Targeted retention strategies (incentives, flexible work options)  
+
+---
+
+## 📊 **2. Job Satisfaction Analysis**  
+
+### **📌 Department-wise Satisfaction Levels**  
+
+- **Highest Satisfaction:** Production, IT/IS  
+- **Lowest Satisfaction:** Admin & Executive Offices  
+
+### **🔍 Key Issues**  
+
+⚠ Dissatisfaction in Admin & Executive roles could impact company operations.  
+⚠ Needs further investigation through employee feedback surveys.  
+
+### **📢 Action Plan**  
+
+✅ Conduct employee engagement surveys  
+✅ Improve work-life balance & flexibility  
+✅ Introduce incentives & professional development programs  
+
+---
+
+## 📊 **3. Employee Hiring & Performance Trends**  
+
+### **📌 Hiring Trends**  
+
+- Hiring peaked in **2010 & 2014**, but declined post-2016.  
+- **Fewer young professionals joining** → Needs attention.  
+
+### **🔍 Key Issues**  
+
+⚠ Declining hiring rate = aging workforce with fewer young recruits.  
+⚠ Difficulty attracting top talent in recent years.  
+
+### **📢 Action Plan**  
+
+✅ Strengthen campus recruitment & internship programs  
+✅ Offer remote/hybrid work models to attract younger talent  
+✅ Improve employer branding & benefits package  
+
+---
+
+## 📊 **4. Employee Performance Trends**  
+
+- **Most employees score between 1–3** → Indicates declining performance.  
+- **Very few high performers (score 4)** → Needs urgent action.  
+
+### **🔍 Key Issues**  
+
+⚠ Low number of high performers = potential productivity concerns.  
+⚠ Lack of motivation, training, or career progression.  
+
+### **📢 Action Plan**  
+
+✅ Implement structured training & development programs  
+✅ Introduce performance-based incentives  
+✅ Recognize and promote high achievers  
+
+---
+
+## 📊 **5. Employee Termination & Retention Strategies**  
+
+### **🔍 Key Termination Reasons**  
+
+| Reason              | No. of Employees |
+|---------------------|-----------------|
+| Better Job Offer   | 20              |
+| More Money        | 11              |
+| Job Dissatisfaction | 14              |
+| Relocation        | 5               |
+
+### **🔍 Key Issues**  
+
+⚠ High turnover due to external job opportunities & pay gaps.  
+⚠ Some employees are unhappy with their job roles.  
+
+### **📢 Action Plan**  
+
+✅ Salary revision – Ensure competitive pay  
+✅ Career progression plan – Provide clear growth opportunities  
+✅ Employee well-being programs – Improve job satisfaction  
+
+---
+
+## 🎯 **Final Recommendations & Next Steps**  
+
+✔ **Salary & Benefits Analysis:** Ensure competitive compensation.  
+✔ **Employee Engagement & Job Satisfaction Programs:** Strengthen retention strategies.  
+✔ **Hiring Young Talent:** Increase recruitment efforts for younger professionals.  
+✔ **Training & Performance-Based Incentives:** Boost employee motivation and performance.  
+✔ **Long-Term Retention Strategy:** Focus on keeping critical talent within the company.  
+
+### **📌 Next Steps:**  
+
+1️⃣ Organize a company-wide feedback survey.  
+2️⃣ Implement a **3-month retention & hiring improvement plan**.  
+3️⃣ Review progress & adjust strategies accordingly.  
+
+---
+
+## 🔍 **Questions for Further Analysis**  
+
+### **Employee Retention & Attrition**  
+1. What is the current attrition rate compared to industry benchmarks?  
+2. Which departments have the highest turnover rates, and why?  
+3. What are the most common reasons for resignations?  
+4. Is there a pattern in attrition based on tenure, age, or department?  
+
+### **Job Satisfaction & Engagement**  
+5. Which departments report the highest and lowest job satisfaction?  
+6. What key factors contribute to employee dissatisfaction?  
+7. How does engagement impact company productivity?  
+8. Is there a link between job satisfaction and performance scores?  
+
+### **Hiring Trends & Talent Acquisition**  
+9. How have hiring trends changed over time?  
+10. What strategies can attract younger talent?  
+11. Are remote/hybrid work options helping with retention?  
+12. How effective are current recruitment methods?  
+
+### **Employee Performance & Growth**  
+13. Are leadership development programs sufficient?  
+14. Are employees satisfied with career growth opportunities?  
+
+---
+
+##  **Project Repository**  
+
+🔗 [GitHub Repository](https://github.com/LakaRahulYadav/HR-Analytics-Business-Analyst---Project-Report)  
+
+---
+
+*  
